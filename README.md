@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnsCd16
 - 👀 I’m interested in art, computing, music and +
 - 🌱 I’m currently learning computing
-- 💞️ I’m looking to collaborate on ptoyects with my friends
+- 💞️ I’m looking to collaborate on proyects with my friends
 - 🌟 Let's start!
 
 <!---
